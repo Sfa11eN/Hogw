@@ -1,6 +1,4 @@
 package com.github.sunsin.hogwarts.controler;
-
-import com.github.belousoveu.hogwarts.exception.*;
 import com.github.sunsin.hogwarts.exception.*;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

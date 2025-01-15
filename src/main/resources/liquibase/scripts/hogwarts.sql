@@ -1,7 +1,7 @@
--- liquibase formatted sql
+-- liquibase formatted for sql
 
--- changeset belousoveu:1
+-- changeset sunsin
 CREATE INDEX full_name_idx ON students (name, surname);
 
--- changeset belousoveu:2
+-- changeset sunsin
 CREATE INDEX name_color_ind ON faculties (name, color);
